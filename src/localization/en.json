@@ -1,0 +1,17 @@
+{
+  "home": {
+    "title": "Home"
+  },
+  "map": {
+    "title": "Map"
+  },
+  "analytics": {
+    "title": "Analytics"
+  },
+  "settings": {
+    "title": "Settings",
+    "darkMode": "Dark Mode",
+    "language": "Language"
+  }
+}
+

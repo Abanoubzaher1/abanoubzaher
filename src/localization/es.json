@@ -1,0 +1,17 @@
+{
+  "home": {
+    "title": "Inicio"
+  },
+  "map": {
+    "title": "Mapa"
+  },
+  "analytics": {
+    "title": "Análisis"
+  },
+  "settings": {
+    "title": "Configuración",
+    "darkMode": "Modo Oscuro",
+    "language": "Idioma"
+  }
+}
+

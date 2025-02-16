@@ -1,0 +1,44 @@
+{
+  "home": {
+    "title": "Accueil"
+  },
+  "map": {
+    "title": "Carte"
+  },
+  "analytics": {
+    "title": "Analyses",
+    "salesReport": "Rapport des ventes",
+    "maintenanceReport": "Rapport de maintenance"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "darkMode": "Mode sombre",
+    "language": "Langue"
+  },
+  "maintenance": {
+    "title": "Calendrier de maintenance",
+    "schedule": "Planifier"
+  },
+  "support": {
+    "title": "Support",
+    "welcome": "Bienvenue dans le support. Comment puis-je vous aider ?",
+    "aiResponse": "Je suis désolé, je n'ai pas compris votre question. Pouvez-vous reformuler ?"
+  },
+  "predictiveMaintenance": {
+    "title": "Maintenance prédictive",
+    "loading": "Chargement des prédictions...",
+    "nextMaintenance": "Prochaine maintenance prévue dans : {{days}}",
+    "confidence": "Confiance : {{confidence}}"
+  },
+  "advancedAnalytics": {
+    "title": "Analyses avancées",
+    "salesTrend": "Tendance des ventes",
+    "maintenanceFrequency": "Fréquence de maintenance",
+    "productPopularity": "Popularité des produits",
+    "keyStats": "Statistiques clés",
+    "totalMachines": "Nombre total de machines",
+    "activeMachines": "Machines actives",
+    "totalSales": "Ventes totales"
+  }
+}
+
