@@ -1,0 +1,9 @@
+<svg width="280" height="72" viewBox="0 0 280 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="7.5" width="54" height="54" rx="14" stroke="#31C3F6" stroke-width="3"/>
+<rect x="10" y="17" width="35" height="35" rx="8" fill="#31C3F6"/>
+<path d="M27.5 28C31.0899 28 34 30.9101 34 34.5V38H21V34.5C21 30.9101 23.9101 28 27.5 28Z" fill="#0B1837"/>
+<rect x="19" y="36" width="17" height="13" rx="3" fill="#0B1837"/>
+<circle cx="27.5" cy="41" r="2.5" fill="#31C3F6"/>
+<path d="M65 52H278" stroke="#0B5FA8"/>
+<text x="65" y="41" fill="#0B5FA8" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="600">CardTrade</text>
+</svg>
