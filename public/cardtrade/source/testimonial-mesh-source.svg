@@ -1,0 +1,11 @@
+<svg width="1140" height="240" viewBox="0 0 1140 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="1140" height="240" rx="20" fill="#0D152A"/>
+  <path d="M40 20L1100 20" stroke="#2C9DD5" stroke-opacity="0.35"/>
+  <path d="M40 220L1100 220" stroke="#2C9DD5" stroke-opacity="0.35"/>
+  <path d="M110 40V200" stroke="#2C9DD5" stroke-opacity="0.2"/>
+  <path d="M285 40V200" stroke="#2C9DD5" stroke-opacity="0.2"/>
+  <path d="M460 40V200" stroke="#2C9DD5" stroke-opacity="0.2"/>
+  <path d="M635 40V200" stroke="#2C9DD5" stroke-opacity="0.2"/>
+  <path d="M810 40V200" stroke="#2C9DD5" stroke-opacity="0.2"/>
+  <path d="M985 40V200" stroke="#2C9DD5" stroke-opacity="0.2"/>
+</svg>
